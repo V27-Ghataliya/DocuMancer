@@ -21,7 +21,7 @@ This Streamlit application allows you to upload PDF files, process their text, a
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/KandarpJoshi1112/Learn-Smart
+   git clone https://github.com/V27-Ghataliya/DocuMancer
    cd Learn-Smart
    ```
 
@@ -130,4 +130,5 @@ GOOGLE_API_KEY="YOUR_API_KEY_HERE"
 ![PyPDF2](https://img.shields.io/badge/PyPDF2-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0E76A8?style=for-the-badge&logo=faiss&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
+
 
