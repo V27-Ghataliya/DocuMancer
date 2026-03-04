@@ -1,4 +1,4 @@
-# LearnSmart 😎
+# DocuMancer 😎
 
 This Streamlit application allows you to upload PDF files, process their text, and interact with the content using natural language queries powered by Google Gemini AI.
 
@@ -130,3 +130,4 @@ GOOGLE_API_KEY="YOUR_API_KEY_HERE"
 ![PyPDF2](https://img.shields.io/badge/PyPDF2-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0E76A8?style=for-the-badge&logo=faiss&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
+
