@@ -22,7 +22,7 @@ This Streamlit application allows you to upload PDF files, process their text, a
 
    ```bash
    git clone https://github.com/V27-Ghataliya/DocuMancer
-   cd Learn-Smart
+   cd DocuMancer
    ```
 
 2. **Create a virtual environment and activate it:**
@@ -130,5 +130,6 @@ GOOGLE_API_KEY="YOUR_API_KEY_HERE"
 ![PyPDF2](https://img.shields.io/badge/PyPDF2-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0E76A8?style=for-the-badge&logo=faiss&logoColor=white)
 ![dotenv](https://img.shields.io/badge/dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
+
 
 
